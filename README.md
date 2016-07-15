@@ -12,7 +12,7 @@ The idea is quite simple:
 2. Interviewer will give you access to a private repository where you will find a markdown file explaining the assignment.
 3. You will have 30 minutes to upload the solution to github.
 
-*Make sure you connect to https://appear.in/netapps-interview at the scheduled time!*
+**Make sure you connect to https://appear.in/netapps-interview at the scheduled time!**
 
 Some things you must consider:
 
@@ -42,5 +42,5 @@ mvn clean install embedded-glassfish:run
 
 Now open a browser and navigate to the URL http://localhost:8080/, you should find a Hello World! message.
 
-Just a small tip: the assignment may be based in this project structure ;-)
+Now you are ready! Just a small tip: the assignment may be based in this project structure ;-)
 
