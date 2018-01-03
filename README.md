@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The assignment is designed to understand how you work and what your preferences are. Don't feel nervous, there is no a correct answer, the source code may not compile and you can search in Google and Stackoverflow, we also do it!
+The assignment is designed to understand how you work and your preferences. Don't feel nervous, there is no a correct answer, the source code may not compile and you can search in Google and Stackoverflow, we also do it!
 
 ## What am I going to do? 
 
@@ -10,7 +10,7 @@ The idea is quite simple:
 
 1. You will start a videoconference with one of the NetApps developers and you will share your screen so the interviewer can help you if you need any assistance. 
 2. Interviewer will give you access to a private repository where you will find a markdown file explaining the assignment.
-3. You will have 30 minutes to upload the solution to github.
+3. You will have 30 minutes to work on it, and, ideally, upload the solution to github.
 
 **Make sure you connect to https://appear.in/netapps-interview at the scheduled time!**
 
@@ -25,22 +25,16 @@ Some things you must consider:
 
 You are going to need for the assignment:
 
-- a Laptop with internet Chrome browser.
-- One GITHUB account.
-- your favorite tools to develop in JAVA, feel free to use whatever you want.
+- A Laptop with internet.
+- Firefox or Chrome browser.
+- One GitHub account.
+- Your favorite tools to develop in JAVA, feel free to use whatever you want.
 
 ## Things to check
 
 1. Be sure you can connect and use https://appear.in/netapps-interview in your network.
 2. Check how github and git works, it's always a good moment to learn it. 
-
-Some assignments may involved download a lot of dependencies, you will find in this repository a Maven file, so you can execute:
-
-```
-mvn clean install embedded-glassfish:run
-```
-
-Now open a browser and navigate to the URL http://localhost:8080/, you should find a Hello World! message.
-
-Now you are ready! Just a small tip: the assignment may be based in this project structure ;-)
-
+3. You should know how to create a new project in your favourite Java IDE. You will need to do it as part of the assignment.
+4. Be familiar with Maven or Gradle will help.
+5. You may need a Java Application Server as SpringBoot (tomcat), WebLogic, Jetty, Glassfish or JBoss. Make sure you have one ready (just one, you can choose your favourite) and with the dependencies downloaded in your laptop.
+6. You may need to use ssh or scp.
