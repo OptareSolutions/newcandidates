@@ -12,7 +12,7 @@ The idea is quite simple:
 2. Interviewer will give you access to a private repository where you will find a markdown file explaining the assignment.
 3. You will have 30 minutes to work on it, and, ideally, upload the solution to github.
 
-**Make sure you connect to https://appear.in/netapps-interview at the scheduled time! Other platforms (i.e. Hangouts or Zoom) may be proposed by your interviewer**
+**Make sure you connect to https://appear.in/optare-interview at the scheduled time! Other platforms (i.e. Hangouts or Zoom) may be proposed by your interviewer**
 
 Some things you must consider:
 
@@ -33,7 +33,7 @@ You are going to need for the assignment:
 
 ## Things to check
 
-1. Be sure you can connect and use https://appear.in/netapps-interview in your network.
+1. Be sure you can connect and use https://appear.in/optare-interview in your network.
 2. Check how github and git works, it's always a good moment to learn it. 
 3. You should know how to create a new project in your favourite IDE. You will need to do it as part of the assignment.
 4. Be familiar with Maven or Gradle will help.
