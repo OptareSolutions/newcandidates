@@ -36,6 +36,6 @@ You are going to need for the assignment:
 1. Be sure you can connect and use https://appear.in/optare-interview in your network.
 2. Check how github and git works, it's always a good moment to learn it. 
 3. You should know how to create a new project in your favourite IDE. You will need to do it as part of the assignment.
-4. Be familiar with Maven or Gradle will help.
-5. You may need a Java Application Server as SpringBoot (tomcat), WebLogic, Jetty, Glassfish or JBoss. Make sure you have one ready (just one, you can choose your favourite) and with the dependencies downloaded in your laptop.
+4. Be familiar with Maven or Gradle may help.
+5. If you have more than 2 years of experience with Java, you may need a Java Application Server as SpringBoot (tomcat), WebLogic, Jetty, Glassfish or JBoss. Make sure you have one ready (just one, you can choose your favourite) and with the dependencies downloaded in your laptop.
 6. You may need to use ssh or scp.
